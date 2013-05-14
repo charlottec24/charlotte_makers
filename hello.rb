@@ -1,4 +1,4 @@
 # Default is "there"
 name = ARGV.first || "there"
 
-puts "Hello, #{name}!"
+puts "Hey, #{name}!"
